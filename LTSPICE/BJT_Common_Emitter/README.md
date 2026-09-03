@@ -12,10 +12,10 @@ BJT Common-Emitter amplifier simulated using LTspice.
 [View LTspice Schematic](./BJT_Common_Emitter.asc)
 
 ## Input Waveform
-![Input Waveform](./input_waveform.png)
+![Input Waveform](./input.png)
 
 ## Output Waveform
-![Output Waveform](./output_waveform.png)
+![Output Waveform](./output.png)
 
 ## Files
 - `BJT_Common_Emitter.asc` — LTspice schematic
