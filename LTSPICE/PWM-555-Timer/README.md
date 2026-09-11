@@ -33,8 +33,3 @@ Pin 5 Input-50 Hz sine wave
 
 ## Simulation Output
 The simulation shows the **50 Hz sinusoidal control signal at Pin 5** and the corresponding **PWM output at Pin 3**. The output pulse width varies according to the control voltage.
-
-## Software Used
-- LTspice
-
-[LTspice Schematic](PWM_555.asc)
