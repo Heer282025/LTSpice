@@ -9,15 +9,15 @@ A sinusoidal control voltage is applied to **Pin 5 (Control Voltage)** of the 55
 The circuit is designed and simulated using **LTspice**.
 
 ## ⚙️ Components
+Component-Value:
 
-| Component | Value |
-| NE555 Timer IC | 1 |
-| R1 | 400 Ω |
-| R2 | 400 Ω |
-| C1 | 1 µF |
-| C2 | 10 nF |
-| Supply Voltage | 9 V |
-| Pin 5 Input | 50 Hz sine wave |
+NE555 Timer IC-1
+R1-400 Ω
+R2-400 Ω
+C1-1 µF
+C2-10 nF
+Supply Voltage-9 V
+Pin 5 Input-50 Hz sine wave
 
 ## 🔌 Pin Connections
 
@@ -32,16 +32,9 @@ The circuit is designed and simulated using **LTspice**.
 
 
 ## Simulation Output
-
 The simulation shows the **50 Hz sinusoidal control signal at Pin 5** and the corresponding **PWM output at Pin 3**. The output pulse width varies according to the control voltage.
 
-![LTspice Output](ltspice_output.png)
-
 ## Software Used
-
 - LTspice
-
-
-## 📁 Simulation File
 
 [LTspice Schematic](PWM_555.asc)
